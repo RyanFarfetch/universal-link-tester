@@ -1,0 +1,7 @@
+{
+  "name": "universal_link",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

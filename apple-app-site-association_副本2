@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y7BCF82NHQ.com.farfetch.china.pdappkit.app",
+        "components": [
+          {
+            "/": "/vc/*",
+            "?": {
+              "skip-app": "1"
+            },
+            "exclude": true
+          },
+          {
+            "/": [
+              "/vc/*",
+              "/v/*"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

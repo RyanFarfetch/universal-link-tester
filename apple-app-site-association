@@ -1,0 +1,286 @@
+{
+  "webcredentials": {
+    "apps": [
+      "YRR3Z73Z6M.com.farfetch.discover",
+      "YRR3Z73Z6M.com.farfetch.discover.debug",
+      "YRR3Z73Z6M.com.farfetch.discover.in-house",
+      "YRR3Z73Z6M.com.farfetch.discover.release-candidate",
+      "Y77QMBFT2X.com.farfetch.enterprise.discover.in-house",
+      "Y77QMBFT2X.com.farfetch.enterprise.discover.release-candidate"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y7BCF82NHQ.com.farfetch.china.discover",
+        "paths": [
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/sets/men/*",
+          "*/sets/women/*",
+          "*/sets/kids/*",
+          "/wechat/*"
+        ]
+      },
+      {
+        "appID": "Y7BCF82NHQ.com.farfetch.china.discover.debug",
+        "components": [
+          {
+            "/": "*/shopping/men/*item*",
+            "?": {
+              "pdpmode": "ar"
+            },
+            "exclude": true
+          },
+          {
+            "/": "*/shopping/women/*item*",
+            "?": {
+              "pdpmode": "ar"
+            },
+            "exclude": true
+          },
+          {
+            "/": "*/shopping/kids/*item*",
+            "?": {
+              "pdpmode": "ar"
+            },
+            "exclude": true
+          }
+          {
+            "/": [
+              "*/shopping/men/search/*",
+              "*/shopping/women/search/*",
+              "*/shopping/kids/search/*",
+              "*/shopping/men/*/*items*",
+              "*/shopping/women/*/*items*",
+              "*/shopping/kids/*/*items*",
+              "*/shopping/men/*item*",
+              "*/shopping/women/*item*",
+              "*/shopping/kids/*item*",
+              "*/sets/men/*",
+              "*/sets/women/*",
+              "*/sets/kids/*",
+              "/wechat/*"
+            ]
+          }
+        ]
+      },
+      {
+        "appID": "Y7BCF82NHQ.com.farfetch.china.discover.in-house",
+        "paths": [
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/sets/men/*",
+          "*/sets/women/*",
+          "*/sets/kids/*",
+          "/wechat/*"
+        ]
+      },
+      {
+        "appID": "Y7BCF82NHQ.com.farfetch.china.discover.release-candidate",
+        "paths": [
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/sets/men/*",
+          "*/sets/women/*",
+          "*/sets/kids/*",
+          "/wechat/*"
+        ]
+      },
+      {
+        "appID": "YRR3Z73Z6M.com.farfetch.discover",
+        "paths": [
+          "*/tag/men/*",
+          "*/tag/women/*",
+          "*/tag/kids/*",
+          "*/tag/beauty/*",
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/beauty/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/beauty/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/shopping/beauty/*/*items*",
+          "*/sets/*",
+          "*/campaign/sale/*",
+          "*/campaign/private-sale/*",
+          "*/campaign/vip-private-sale/*",
+          "*/designers/men",
+          "*/designers/women",
+          "*/designers/kids",
+          "*/designers/beauty",
+          "*/farfetch-access-programme",
+          "*/boutiques/boutique/*",
+          "/wechat-global/*"
+        ]
+      },
+      {
+        "appID": "YRR3Z73Z6M.com.farfetch.discover.debug",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "YRR3Z73Z6M.com.farfetch.discover.in-house",
+        "paths": [
+          "*/tag/men/*",
+          "*/tag/women/*",
+          "*/tag/kids/*",
+          "*/tag/beauty/*",
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/beauty/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/beauty/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/shopping/beauty/*/*items*",
+          "*/sets/*",
+          "*/campaign/sale/*",
+          "*/campaign/private-sale/*",
+          "*/campaign/vip-private-sale/*",
+          "*/designers/men",
+          "*/designers/women",
+          "*/designers/kids",
+          "*/designers/boutiques",
+          "*/farfetch-access-programme",
+          "*/boutiques/boutique/*",
+          "/wechat-global/*"
+        ]
+      },
+      {
+        "appID": "YRR3Z73Z6M.com.farfetch.discover.release-candidate",
+        "paths": [
+          "*/tag/men/*",
+          "*/tag/women/*",
+          "*/tag/kids/*",
+          "*/tag/beauty/*",
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/beauty/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/beauty/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/shopping/beauty/*/*items*",
+          "*/sets/*",
+          "*/campaign/sale/*",
+          "*/campaign/private-sale/*",
+          "*/campaign/vip-private-sale/*",
+          "*/designers/men",
+          "*/designers/women",
+          "*/designers/kids",
+          "*/designers/beauty",
+          "*/farfetch-access-programme",
+          "*/boutiques/boutique/*",
+          "/wechat-global/*"
+        ]
+      },
+      {
+        "appID": "Y77QMBFT2X.com.farfetch.enterprise.discover.debug",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y77QMBFT2X.com.farfetch.enterprise.discover.in-house",
+        "paths": [
+          "*/tag/men/*",
+          "*/tag/women/*",
+          "*/tag/kids/*",
+          "*/tag/beauty/*",
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/beauty/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/beauty/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/shopping/beauty/*/*items*",
+          "*/sets/*",
+          "*/campaign/sale/*",
+          "*/campaign/private-sale/*",
+          "*/campaign/vip-private-sale/*",
+          "*/designers/men",
+          "*/designers/women",
+          "*/designers/kids",
+          "*/designers/beauty",
+          "*/farfetch-access-programme",
+          "*/boutiques/boutique/*",
+          "/wechat-global/*"
+        ]
+      },
+      {
+        "appID": "Y77QMBFT2X.com.farfetch.enterprise.discover.release-candidate",
+        "paths": [
+          "*/tag/men/*",
+          "*/tag/women/*",
+          "*/tag/kids/*",
+          "*/tag/beauty/*",
+          "*/shopping/men/search/*",
+          "*/shopping/women/search/*",
+          "*/shopping/kids/search/*",
+          "*/shopping/beauty/search/*",
+          "*/shopping/men/*item*",
+          "*/shopping/women/*item*",
+          "*/shopping/kids/*item*",
+          "*/shopping/beauty/*item*",
+          "*/shopping/men/*/*items*",
+          "*/shopping/women/*/*items*",
+          "*/shopping/kids/*/*items*",
+          "*/shopping/beauty/*/*items*",
+          "*/sets/*",
+          "*/campaign/sale/*",
+          "*/campaign/private-sale/*",
+          "*/campaign/vip-private-sale/*",
+          "*/designers/men",
+          "*/designers/women",
+          "*/designers/kids",
+          "*/designers/beauty",
+          "*/farfetch-access-programme",
+          "*/boutiques/boutique/*",
+          "/wechat-global/*"
+        ]
+      }
+    ]
+  }
+}
